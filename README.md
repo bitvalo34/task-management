@@ -1,7 +1,7 @@
 # task-management
 Lab 06 of task management.
 
-# Interactive Survey Application
+# Task Management Dashboard
 This is a task management application built with React, Vite, and Bootstrap. It allows users to add, edit, delete, and filter tasks dynamically. The application leverages React’s state management for real-time updates and a responsive UI styled with Bootstrap.
 
 ## Features
